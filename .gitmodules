@@ -1,3 +1,18 @@
 [submodule "Home-Projects/Code/RogueLike"]
 	path = Home-Projects/Code/RogueLike
 	url = https://github.com/MarkBSH/RogueLike
+[submodule "Home-Projects/Code/Terraria-Like-Worldgen"]
+	path = Home-Projects/Code/Terraria-Like-Worldgen
+	url = https://github.com/MarkBSH/Terraria-Like-Worldgen
+[submodule "Home-Projects/Code/Dialogue-Prototype"]
+	path = Home-Projects/Code/Dialogue-Prototype
+	url = https://github.com/MarkBSH/Dialogue-Prototype
+[submodule "Home-Projects/Code/Collection-Of-Systems"]
+	path = Home-Projects/Code/Collection-Of-Systems
+	url = https://github.com/MarkBSH/Collection-Of-Systems
+[submodule "Home-Projects/Code/Psycological-Horor"]
+	path = Home-Projects/Code/Psycological-Horor
+	url = https://github.com/MarkBSH/Psycological-Horor
+[submodule "Home-Projects/Code/Monster-Snap"]
+	path = Home-Projects/Code/Monster-Snap
+	url = https://github.com/MarkBSH/Monster-Snap
