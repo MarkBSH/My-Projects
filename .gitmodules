@@ -49,3 +49,6 @@
 [submodule "Finished Projects/Code/Team Projects/shmup-2024-team-6-duck"]
 	path = Finished Projects/Code/Team Projects/shmup-2024-team-6-duck
 	url = https://github.com/GLU-Gaming/shmup-2024-team-6-duck.git
+[submodule "Finished Projects/Code/SHMUP-2.0"]
+	path = Finished Projects/Code/SHMUP-2.0
+	url = https://github.com/MarkBSH/SHMUP-2.0.git
