@@ -52,3 +52,6 @@
 [submodule "Finished Projects/Code/SHMUP-2.0"]
 	path = Finished Projects/Code/SHMUP-2.0
 	url = https://github.com/MarkBSH/SHMUP-2.0.git
+[submodule "To Be Continued Projects/Code/Pokemon-Typing-Adventure"]
+	path = To Be Continued Projects/Code/Pokemon-Typing-Adventure
+	url = https://github.com/MarkBSH/Pokemon-Typing-Adventure.git
