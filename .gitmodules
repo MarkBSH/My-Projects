@@ -55,3 +55,6 @@
 [submodule "To Be Continued Projects/Code/Pokemon-Typing-Adventure"]
 	path = To Be Continued Projects/Code/Pokemon-Typing-Adventure
 	url = https://github.com/MarkBSH/Pokemon-Typing-Adventure.git
+[submodule "To Be Continued Projects/Code/Teardown-Type-Destruction"]
+	path = To Be Continued Projects/Code/Teardown-Type-Destruction
+	url = https://github.com/MarkBSH/Teardown-Type-Destruction.git
