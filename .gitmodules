@@ -16,3 +16,36 @@
 [submodule "Home-Projects/Code/Monster-Snap"]
 	path = Home-Projects/Code/Monster-Snap
 	url = https://github.com/MarkBSH/Monster-Snap
+[submodule "Finished Projects/Code/Dialogue-Prototype"]
+	path = Finished Projects/Code/Dialogue-Prototype
+	url = https://github.com/MarkBSH/Dialogue-Prototype.git
+[submodule "To Be Continued Projects/Code/Collection-Of-Systems"]
+	path = To Be Continued Projects/Code/Collection-Of-Systems
+	url = https://github.com/MarkBSH/Collection-Of-Systems.git
+[submodule "To Be Continued Projects/Code/Monster-Snap"]
+	path = To Be Continued Projects/Code/Monster-Snap
+	url = https://github.com/MarkBSH/Monster-Snap.git
+[submodule "To Be Continued Projects/Code/Terraria-Like-Worldgen"]
+	path = To Be Continued Projects/Code/Terraria-Like-Worldgen
+	url = https://github.com/MarkBSH/Terraria-Like-Worldgen.git
+[submodule "To Be Continued Projects/Code/RogueLike"]
+	path = To Be Continued Projects/Code/RogueLike
+	url = https://github.com/MarkBSH/RogueLike.git
+[submodule "To Be Continued Projects/Code/Psycological-Horor"]
+	path = To Be Continued Projects/Code/Psycological-Horor
+	url = https://github.com/MarkBSH/Psycological-Horor.git
+[submodule "Finished Projects/Code/Team Projects/Suicide-Squad"]
+	path = Finished Projects/Code/Team Projects/Suicide-Squad
+	url = https://github.com/MarkBSH/Suicide-Squad.git
+[submodule "Finished Projects/Code/Team Projects/6.1-Local-Multiplayer"]
+	path = Finished Projects/Code/Team Projects/6.1-Local-Multiplayer
+	url = https://github.com/MarkBSH/6.1-Local-Multiplayer.git
+[submodule "Finished Projects/Code/Team Projects/Mini-Gamejam"]
+	path = Finished Projects/Code/Team Projects/Mini-Gamejam
+	url = https://github.com/MarkBSH/Mini-Gamejam.git
+[submodule "Finished Projects/Code/Team Projects/twinstick-2024-team-10-prolite-2"]
+	path = Finished Projects/Code/Team Projects/twinstick-2024-team-10-prolite-2
+	url = https://github.com/GLU-Gaming/twinstick-2024-team-10-prolite-2.git
+[submodule "Finished Projects/Code/Team Projects/shmup-2024-team-6-duck"]
+	path = Finished Projects/Code/Team Projects/shmup-2024-team-6-duck
+	url = https://github.com/GLU-Gaming/shmup-2024-team-6-duck.git

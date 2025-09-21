@@ -1,0 +1,1 @@
+These are team projects I've made with others at my study, sometimes there where people I didn't like in my team but I still tried the most I could but sometimes the where just people who didn't do their best or someitmes even anything, so these aren't my best projects.
