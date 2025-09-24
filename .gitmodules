@@ -58,3 +58,6 @@
 [submodule "To Be Continued Projects/Code/Teardown-Type-Destruction"]
 	path = To Be Continued Projects/Code/Teardown-Type-Destruction
 	url = https://github.com/MarkBSH/Teardown-Type-Destruction.git
+[submodule "Finished Projects/Art/MHW-Iron-Hammer"]
+	path = Finished Projects/Art/MHW-Iron-Hammer
+	url = https://github.com/MarkBSH/MHW-Iron-Hammer.git
